@@ -1,4 +1,4 @@
-CRM-HOSPITAL-SISTEMA-DE-SALUD es un proyecto final para la aprobacion del bootcamp 2023 de la academia KODIGO
+CRM-SISTEMA-DE-SALUD-LARAVEL es un proyecto final para la aprobacion del bootcamp 2023 de la academia KODIGO
 
 Este proyecto tiene su parte de frontend realizada con React y react-router En su parte de Backend esta hecha con Laravel y MySql
 
